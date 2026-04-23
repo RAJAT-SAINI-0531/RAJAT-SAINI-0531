@@ -46,6 +46,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajat-saini-0531&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ADB5&size=22&center=true&vCenter=true&width=500&lines=Building+Scalable+Systems;Backend+Engineer;API+%7C+Automation+%7C+Docker" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350"/>
+</p>
+
 ---
 
 ### 📫 Contact
