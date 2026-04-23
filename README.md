@@ -43,15 +43,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajat-saini-0531&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajat-saini-0531&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
-### 🔥 Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajat-saini-0531&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
